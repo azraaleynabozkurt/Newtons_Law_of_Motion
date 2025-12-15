@@ -50,36 +50,6 @@ The script generates the following image files:
 
 These images can be directly embedded into documentation, blog posts, or academic reports. 
 
-## How to Run the Project
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/newtons-laws-visualization.git
-   ```
-
-2. Navigate to the project directory:
-
-   ```bash
-   cd newtons-laws-visualization
-   ```
-
-3. Install the required libraries (if not already installed):
-
-   ```bash
-   pip install numpy matplotlib
-   ```
-
-4. Run the Python script:
-
-   ```bash
-   python newton_laws.py
-   ```
-
-5. The PNG graphs will be saved in the project directory. 
-
-## Educational Purpose
-
 This project is intended for:
 
 * Physics students learning classical mechanics
