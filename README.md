@@ -17,7 +17,7 @@ Isaac Newton’s three laws of motion form the foundation of classical mechanics
 2. **Newton’s Second Law (Law of Acceleration)**
    The net force acting on an object is equal to the product of its mass and acceleration:
 
-   [ F = m \cdot a ]
+   F = m . a
 
 3. **Newton’s Third Law (Action–Reaction Law)**
    For every action force, there is an equal and opposite reaction force.
