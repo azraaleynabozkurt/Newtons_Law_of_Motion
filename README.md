@@ -26,7 +26,7 @@ These laws are not only applicable to everyday objects but also to large-scale s
 
 ## Project Structure
 
-The project consists of a single Python script that generates three separate graphs:
+The project consists of three Python script that generates three separate graphs:
 
 * **Newton’s First Law**: Position and velocity vs. time for an object at rest (no net force).
 * **Newton’s Second Law**: Position, velocity, and acceleration vs. time under a constant force.
